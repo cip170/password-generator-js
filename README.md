@@ -9,3 +9,5 @@ https://github.com/cip170/password-generator-js.git
 
 Starter-code (HTML, CSS, JS) used
 https://github.com/coding-boot-camp/friendly-parakeet
+
+![screenshot of working password generator](./assets/images/Screenshot%20(249).png)
